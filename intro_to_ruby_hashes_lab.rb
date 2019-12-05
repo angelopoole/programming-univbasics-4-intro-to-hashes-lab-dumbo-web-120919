@@ -5,7 +5,7 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  newhash = Hash.new(4, "containers")
+  newhash = Hash.new(4, "containers" = 4)
 end
 
 def pioneer
