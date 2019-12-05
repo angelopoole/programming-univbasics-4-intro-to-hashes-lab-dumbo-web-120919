@@ -6,7 +6,7 @@ end
 def my_hash
   # return a valid hash with any key/value pair of your choice
   newhash = {
-    :haloReach => "on pc"
+    :haloReach => "on pc",
     :halo5 => "not on pc yet"
   }
 end
