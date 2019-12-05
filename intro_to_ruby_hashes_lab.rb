@@ -5,7 +5,10 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  newhash = Hash.new(4, "containers" = 4)
+  newhash = {
+    :haloReach => "on pc"
+    :halo5 => "not on pc yet"
+  }
 end
 
 def pioneer
